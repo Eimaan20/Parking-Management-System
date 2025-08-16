@@ -29,4 +29,20 @@ This project demonstrates full-stack .NET development with WebForms, server-side
 ---
 
 ## 📂 Project Structure
+PMS/
+│── PropertyManagementSystem.sln # Solution file
+│── PMS/ # Main project files
+│── packages/ # NuGet dependencies
+│── .cr/ # IDE settings
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Visual Studio (2019 or later)  
+- .NET Framework (4.5 or above)  
+- SQL Server  
+
 
